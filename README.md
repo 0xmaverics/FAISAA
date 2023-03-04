@@ -1,2 +1,2 @@
 # FAISAA
-A fully web3-driven Ecosystem forging DEFI on CoreDAO 
+A fully Web3-driven Ecosystem Forging DeFi on CoreDAO 
