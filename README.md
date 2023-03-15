@@ -1,6 +1,6 @@
 ![alt text](https://github.com/0xmaverics/FAISAA/blob/main/banner.jpg?raw=true)
 # <b>FAISAA</b>
-<h2>A fully Web3-driven Ecosystem Forging DeFi on CoreDAO</h2> 
+<h2>A fully web3-driven ecosystem forging DeFi on CoreDAO</h2> 
 
 <b>Faisaa Network</b> is a fully web3-driven ecosystem connecting traders, exchanges, institutions, and DeFi platforms with democratized access to the best-in-class liquidity, trading execution, and yield generation strategies at lower or zero cost. 
 
