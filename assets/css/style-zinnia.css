@@ -5718,7 +5718,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .partner-logo-s2, .partner-logo-s3 { width: 50%; max-width: 50%; text-align: center; padding: 0 10px; }
 
-.partner-logo-s2 img, .partner-logo-s3 img { max-height: 50px; }
+.partner-logo-s2 img, .partner-logo-s3 img { max-height: 150px; }
 
 .partner-list-left .partner-logo-s2, .partner-list-left .partner-logo-s3 { text-align: left; }
 
